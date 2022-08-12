@@ -11,16 +11,16 @@ satelite view:
 dark view:
 
 and the information shown can be toggled on or off depending on the desired view.
-1.<p align="right">
-  <img src="/images/streetView.png" width="350" title="Street View">
+1.<p align="left">
+  <img src="../images/streetView.png" width="350" title="Street View">
 </p>
-2.<p align="right">
-  <img src="/images/sateliteView.png" width="350" title="Satellite View">
+2.<p align="left">
+  <img src="../images/sateliteView.png" width="350" title="Satellite View">
 </p>
-3.<p align="right">
-  <img src="/images/darkView.png" width="350" title="Dark View">
+3.<p align="left">
+  <img src="../images/darkView.png" width="350" title="Dark View">
 </p>
 
 # Summary
 
-
+The map shows all three different views in a toggle option and shows all three different layers of earthquakes nad tectonic plates.
