@@ -5,7 +5,7 @@ This repository includes a map including earthquakes that happened in the last 7
 
 # Results
 
-Was able to show the map with three different views and three different layers showing important information for each earthquake. The maps can be toggled between:
+Was able to show the map with three different views and three different layers showing important information for each earthquake. The layers can be toggled on or off depending on what the user wishes to see and the maps can be toggled between:
 
 street view:
 <img src="Earthquake_Challenge/Images/streetView.png" width="300">
@@ -15,9 +15,6 @@ satelite view:
 
 dark view:
 <img src="Earthquake_Challenge/Images/darkView.png" width="300">
-
-and the information shown can be toggled on or off depending on the desired view.
-
 
 # Summary
 
