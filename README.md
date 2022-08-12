@@ -6,20 +6,13 @@ This repository includes a map including earthquakes that happened in the last 7
 # Results
 
 Was able to show the map with three different views and three different layers showing important information for each earthquake. The maps can be toggled between:
-street view:
-satelite view:
-dark view:
+
+street view:<img src="Earthquake_Challenge/Images/streetView.png" width="300">
+satelite view:<img src="Earthquake_Challenge/Images/sateliteView.png" width="300">
+dark view:<img src="Earthquake_Challenge/Images/darkView.png" width="300">
 
 and the information shown can be toggled on or off depending on the desired view.
-1.<p align="left">
-  <img src="Earthquake_Challenge/images/streetView.png" width="350" title="Street View">
-</p>
-2.<p align="left">
-  <img src="Earthquake_Challenge/images/sateliteView.png" width="350" title="Satellite View">
-</p>
-3.<p align="left">
-  <img src="Earthquake_Challenge/images/darkView.png" width="350" title="Dark View">
-</p>
+
 
 # Summary
 
